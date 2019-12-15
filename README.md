@@ -5,5 +5,8 @@ Transport for London, the body responsible for delivery of a new bike system,com
 
 This challenge aligns with the WEEK 1 goals:
 
-Test-drive a simple program using objects and methods Pair using the driver-navigator style Follow an effective debugging process Describe some basic OO principles like encapsulation, SRP
+Test-drive a simple program using objects and methods 
+Pair using the driver-navigator style 
+Follow an effective debugging process 
+Describe some basic OO principles like encapsulation, SRP
 
